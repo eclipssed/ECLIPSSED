@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eclipssed
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Full Stack development
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning the most optimized use of Next.js
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me furqanmirzaig@gmail.com
 
