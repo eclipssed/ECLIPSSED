@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eclipssed a Full Stack Web Developer
 - 👀 I’m interested in converting imagination into a digital reality
-- 🌱 I’m currently learning the most optimized use of Next.js and typescript
+- 🌱 I’m currently learning the most optimized use of Next.js and Typescript
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me furqanmirzaig@gmail.com
 
