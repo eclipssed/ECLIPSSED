@@ -5,7 +5,7 @@
 - 📫 How to reach me furqanmirzaig@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eclipssed)](https://github.com/eclipssed/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eclipssed&show_icons=true)](https://github.com/eclipssed/github-readme-stats)
 
 <!---
 eclipssed/eclipssed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
