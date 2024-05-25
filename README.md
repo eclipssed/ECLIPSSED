@@ -1,13 +1,12 @@
-<h2> Hey, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a Electronics and Communication undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding.
+<h2> Hey, I'm Furqan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+I'm a passionate Next.js developer who thrives on building user-centric websites. I find immense satisfaction in crafting solutions that empower users and tackle their challenges. I try hard to improve my skills with every passing day. I love to connect with new people and admire everyone having passion for coding.
 
 <br/>
 
 
 
 ## 🎓 Currently learning 
-  * Data Structures and Algorithms <img height=18 width=18 src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  * Web Development  <img height=18 width=18 src="https://img.icons8.com/color/48/000000/html-5.png"/><img height=16 width=16 src="https://img.icons8.com/color/48/000000/css3.png"/>
+  * Web Development  <img height=20 width=20 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height=20 width=20 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
   
 ## 📲 Connect with me on social media 
@@ -19,13 +18,11 @@ I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU
 
 ## 💻 Tools and languages I work with
 <div align items="left">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
- <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
