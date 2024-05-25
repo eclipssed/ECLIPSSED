@@ -7,7 +7,7 @@
 
 <img alt="github stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eclipssed&show_icons=true" />
 
-<img alt="languages used" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclipssed&layout=compact" />
+<img alt="languages used" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclipssed" />
 
 <!---
 eclipssed/eclipssed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
