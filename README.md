@@ -11,8 +11,8 @@ I'm a passionate Next.js developer who thrives on building user-centric websites
   
 ## 📲 Connect with me on social media 
 <p align="left">
-<a target="_blank"href="https://www.linkedin.com/in/rohan-kumar-a0b898194/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a target="_blank"href="https://github.com/RohanKumar01"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a target="_blank"href="https://www.linkedin.com/in/muhammad-furqan-nextjs-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://github.com/eclipssed"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
  
 </p>
 
@@ -33,19 +33,6 @@ I'm a passionate Next.js developer who thrives on building user-centric websites
 </div>
 
 ## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
-
-
-
-
-
-
-
-- 👋 Hi, I’m @eclipssed a Full Stack Web Developer
-- 👀 I’m interested in converting imagination into a digital reality
-- 🌱 I’m currently learning the most optimized use of Next.js and Typescript
-- 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me furqanmirzaig@gmail.com
-
 
 <img alt="github stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eclipssed&show_icons=true" />
 
