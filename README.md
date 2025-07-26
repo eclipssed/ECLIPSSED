@@ -11,7 +11,7 @@ I'm a passionate Next.js developer who thrives on building user-centric websites
   
 ## 📲 Connect with me on social media 
 <p align="left">
-<a target="_blank"href="https://www.linkedin.com/in/muhammad-furqan-nextjs-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a target="_blank"href="https://www.linkedin.com/in/muhammadfurqan-js/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://github.com/eclipssed"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
  
 </p>
